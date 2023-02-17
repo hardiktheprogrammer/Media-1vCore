@@ -17,7 +17,9 @@ cpi = ["no-entrypoint"]
 default = []
 
 [dependencies]
-anchor-lang = "0.20.1"
-anchor-spl = "0.20.1"
+anchor-lang = "0.26.0"
+anchor-spl = "0.26.0"
 integer-sqrt = "0.1.5"
+pyth-client = "0.5.1"
+pyth-sdk-solana = "0.7.1"
 uint = "0.9"
